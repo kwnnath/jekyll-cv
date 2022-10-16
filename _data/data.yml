@@ -89,12 +89,12 @@ publications:
 
   - title: Computer Engineering and Informatics
     link: "#"
-    date: 2015 - 2021
+    authors: 2015 - 2021
     conference: University of Patras
     
 certifications:
   - title: Microsoft Certified: Power Platform Fundamentals
-    authors: Oct 2022
+    date: Oct 2022
     organization: Microsoft
 
   - title: The Complete 2022 Web Development Bootcamp
