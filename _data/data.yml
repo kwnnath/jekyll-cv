@@ -75,11 +75,8 @@ experience:
     time: Mar 2020 - May 2020
     company: Knowledge Broadband Services A.E.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Engage with logging for better understanding anddebugging during application execution.
+      Writing Unit tests to ensure the delivery of efficientsoftware.
     technologies_used: | 
       Java, WLS, Oracle, Mockito, Git
 
