@@ -6,15 +6,14 @@ fork: true
 contact:
   email: kwnathanas@gmail.com
   github: kwnnath
-  linkedin: johndoe
+  linkedin: 
   phone: 
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Greek
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
@@ -41,11 +40,7 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Web Developer capable of creating web applicationsfrom scratch and providing elegant solutions with attentionto detail in minimal time. Passionate about architecture andsoftware design, ambitious, with a willingness to excel.
 
 # Experience
 experience:
