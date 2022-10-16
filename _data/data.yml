@@ -51,11 +51,13 @@ experience:
     time: Nov 2021 - Jul 2022
     company: BitMyJob
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Designing and developing web applications for clients based on the CakePhp 4 framework.
+      Creating, designing and maintaining databases. Modify databases and products according to customer specifications.
+      Processing and handling of data in the form of JSON, XML and CSV files.
+      Design, implementation and development of interactive projects.
+      Management of e-commerce systems such as Wordpress, Opencart and Magento.
+      Member of the support team for full technical support ofclients, the maintenance and improvement of their websites. Meeting with clients to understand the specifications of each project.
+      Troubleshoot PHP code and maintain existing systems.
     technologies_used: | 
       CakePHP 4, PHP, HTML, CSS, MySQL, JavaScript, Git
       
@@ -63,11 +65,9 @@ experience:
     time: Jul 2021 - Sep 2021
     company: European Dynamics
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Execution of tasks in European projects.
+      Participation in the design, implementation and maintenance of system components.
+      Ensuring delivery of quality software.
     technologies_used: | 
       Java 8, Spring/Spring Boot, Javascript,Angular, HTML5, CSS, SQL, SOAP, Bash, Oracle,Mockito, Tomcat, Git, WLS
       
@@ -75,8 +75,8 @@ experience:
     time: Mar 2020 - May 2020
     company: Knowledge Broadband Services A.E.
     details: |
-      Engage with logging for better understanding anddebugging during application execution.
-      Writing Unit tests to ensure the delivery of efficientsoftware.
+      Engage with logging for better understanding and debugging during application execution.
+      Writing Unit tests to ensure the delivery of efficient software.
     technologies_used: | 
       Java, WLS, Oracle, Mockito, Git
 
