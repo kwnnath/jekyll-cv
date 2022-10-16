@@ -16,27 +16,27 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MS, Human Computer Interaction
+    time: 2022 - Present
+    university: University of Patras
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Computer Engineering and Informatics
+    time: 2015 - 2021
+    university: University of Patras
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Java
+      - PHP
+      - Python
   - category: Frontend
     skill:
       - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Angular
+      - HTML
+      - JavaScript
+      - CSS
 
 # Profile
 profile: |
