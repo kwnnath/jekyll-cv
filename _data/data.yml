@@ -15,15 +15,6 @@ languages:
   - idiom: Greek
   - idiom: English
 
-education:
-  - degree: MS, Human Computer Interaction
-    time: 2022 - Present
-    university: University of Patras
-
-  - degree: Computer Engineering and Informatics
-    time: 2015 - 2021
-    university: University of Patras
-
 skills:
   - category: Backend
     skill: 
@@ -44,9 +35,9 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Technology Consultant
+    time: Aug 2022 - Present
+    company: EY
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -56,9 +47,9 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Junior Web Developer
+    time: Nov 2021 - Jul 2022
+    company: BitMyJob
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -66,18 +57,42 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      CakePHP 4, PHP, HTML, CSS, MySQL, JavaScript, Git
+      
+  - role: Junior Java Developer (Remote)
+    time: Jul 2021 - Sep 2021
+    company: European Dynamics
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Java 8, Spring/Spring Boot, Javascript,Angular, HTML5, CSS, SQL, SOAP, Bash, Oracle,Mockito, Tomcat, Git, WLS
+      
+  - role: Software Engineer Intern
+    time: Mar 2020 - May 2020
+    company: Knowledge Broadband Services A.E.
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Java, WLS, Oracle, Mockito, Git
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: MS, Human Computer Interaction
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: 2022 - Present
+    conference: University of Patras
 
-  - title: Second title of paper. An interesting one too.
+  - title: Computer Engineering and Informatics
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: 2015 - 2021
+    conference: University of Patras
 
 projects:
   - title: Cool Project 
