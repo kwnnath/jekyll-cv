@@ -89,28 +89,23 @@ publications:
 
   - title: Computer Engineering and Informatics
     link: "#"
-    authors: 2015 - 2021
+    date: 2015 - 2021
     conference: University of Patras
+    
+certifications:
+  - title: Microsoft Certified: Power Platform Fundamentals
+    authors: Oct 2022
+    organization: Microsoft
+
+  - title: The Complete 2022 Web Development Bootcamp
+    date: Aug 2022
+    organization: Udemy
+    
+  - title: 2021 Complete Python Bootcamp From Zero to Hero in Python
+    date: Oct 2021
+    organization: Udemy
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title:  
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Painting, yoga, cinema, reading books.
