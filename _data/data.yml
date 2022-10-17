@@ -40,11 +40,8 @@ experience:
     time: Aug 2022 - Present
     company: EY
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Building custom apps with power apps to meet business needs. Also interaction with various online and on premise data sources such as Dataverse, Sharepoint etc.
+      Implementation of business logic and creation custom connectors to integrate with external data. Visualization of data sources.
     technologies_used: | 
       Power Apps, Power BI Reports, Power Automate, Microsoft SQL Server, Git
   
@@ -53,11 +50,10 @@ experience:
     company: BitMyJob
     details: |
       Designing and developing web applications for clients based on the CakePhp 4 framework.
-      Creating, designing and maintaining databases. Modify databases and products according to customer specifications.
-      Processing and handling of data in the form of JSON, XML and CSV files.
+      Creating, designing and maintaining databases. Modification of databases and products according to customer specifications.
       Design, implementation and development of interactive projects.
       Management of e-commerce systems such as Wordpress, Opencart and Magento.
-      Member of the support team for full technical support ofclients, the maintenance and improvement of their websites. Meeting with clients to understand the specifications of each project.
+      Member of the support team for full technical support of clients, the maintenance and improvement of their websites. Meeting with clients to understand the specifications of each project.
       Troubleshoot PHP code and maintain existing systems.
     technologies_used: | 
       CakePHP 4, PHP, HTML, CSS, MySQL, JavaScript, Git
@@ -76,18 +72,18 @@ experience:
     time: Mar 2020 - May 2020
     company: Knowledge Broadband Services A.E.
     details: |
-      Engage with logging for better understanding and debugging during application execution.
+      Engagement with logging for better understanding and debugging during application execution.
       Writing Unit tests to ensure the delivery of efficient software.
     technologies_used: | 
       Java, WLS, Oracle, Mockito, Git
 
 publications:
-  - title: MS, Human Computer Interaction
+  - title: MSc Human Computer Interaction
     link: "#"
     authors: 2022 - Present
     conference: University of Patras
 
-  - title: Computer Engineering and Informatics
+  - title: MEng Computer Engineering and Informatics
     link: "#"
     authors: 2015 - 2021
     conference: University of Patras
