@@ -1,1 +1,10 @@
 
+{% assign webrings = site.data.data.webring %}
+{% if webrings %}
+<section class="languages">
+    <div class="title">Webring</div>
+    {% for webring in webrings %}
+        <div class="idiom" href="https://upatras-hci-2022.github.io/webring/">{{webring.idiom}}</div>
+    {% endfor %}
+</section>
+{% endif %}
