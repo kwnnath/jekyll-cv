@@ -28,6 +28,14 @@
             </a>
         </div>
     {% endif %}
+    {% if contact.webring %}
+        <div class="contact-item">
+            <i data-feather="github"></i>
+            <a href="https://upatras-hci-2022.github.io/webring/">
+                {{contact.webring}}
+            </a>
+        </div>
+    {% endif %}
 
     {% if contact.linkedin %}
         <div class="contact-item">
